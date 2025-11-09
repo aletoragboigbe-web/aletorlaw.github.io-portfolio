@@ -8,7 +8,7 @@
     </td>
     <td valign="middle">
       <h1>Welcome to My GitHub Profile</h1>
-      <p>Hello 👋 I’m <strong>Aletor AGBOIGBE</strong>, a dedicated Data Analyst passionate about transforming data into actionable insights.</p>
+      <p>Hello 👋 I’m <strong>Aletor</strong>, a dedicated Data Analyst passionate about transforming data into actionable insights.</p>
       <p>My journey into data analytics began with a curiosity for finding meaningful patterns within large datasets. Over time, I’ve built strong analytical skills and mastered modern tools to uncover insights that drive informed decisions.</p>
     </td>
   </tr>
@@ -25,9 +25,6 @@ My analytical mindset and proficiency with key data tools allow me to handle com
 
 ## 💼 Professional Skills
 
-### 🛠️ SQL
-- Proficient in writing complex queries to extract, manipulate, and analyze data from relational databases.  
-- Experienced in query optimization and working efficiently with large datasets.
 
 ### 📊 Excel
 - Advanced skills in Excel, including data cleaning, PivotTables, VLOOKUP, and complex formulas.  
@@ -37,6 +34,9 @@ My analytical mindset and proficiency with key data tools allow me to handle com
 - Proficient in building insightful dashboards that communicate trends and KPIs clearly.  
 - Strong storytelling and presentation skills to deliver impactful insights to stakeholders.
 
+### 🛠️ SQL
+- Proficient in writing complex queries to extract, manipulate, and analyze data from relational databases.  
+- Experienced in query optimization and working efficiently with large datasets.
 ---
 
 ## 🎓 Certifications
@@ -60,12 +60,6 @@ My analytical mindset and proficiency with key data tools allow me to handle com
   <p><a href="https://github.com/yourusername/retail-sales-dashboard">View Repository</a></p>
 </div>
 
-<div style="border:1px solid #e1e4e8;padding:14px;border-radius:8px;margin-bottom:12px;">
-  <h3><a href="https://github.com/yourusername/customer-churn-analysis" target="_blank">Customer Churn Analysis</a></h3>
-  <p>Analyzed customer behavior and churn drivers using Python and Power BI. Presented actionable recommendations for customer retention.</p>
-  <p><strong>Tools:</strong> Python, Power BI, Excel</p>
-  <p><a href="https://github.com/yourusername/customer-churn-analysis">View Repository</a></p>
-</div>
 
 <!-- Duplicate the above section for each featured project -->
 
@@ -74,10 +68,9 @@ My analytical mindset and proficiency with key data tools allow me to handle com
 ## 📬 Contact Me
 I am always open to discussing new projects, collaborations, or opportunities in data analytics and data science.  
 
-📧 **Email:** your.email@example.com  
+📧 **Email:** aletoragboigbe@gmail.com  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
 
 Thank you for visiting my profile! I look forward to connecting with fellow data enthusiasts and professionals.  
 
 ---
-
