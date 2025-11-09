@@ -1,76 +1,81 @@
-<!-- README.md for Aletor AGBOIGBE Portfolio -->
-<!-- Upload your profile image as assets/profile.jpg before publishing -->
-
-<table>
-  <tr>
-    <td width="130">
-      <img src="assets/profile.jpg" alt="Aletor AGBOIGBE" width="120" style="border-radius:10px;">
-    </td>
-    <td valign="middle">
-      <h1>Welcome to My GitHub Profile</h1>
-      <p>Hello 👋 I’m <strong>Aletor </strong>, a dedicated Data Analyst passionate about transforming data into actionable insights.</p>
-      <p>My journey into data analytics began with a curiosity for finding meaningful patterns within large datasets. Over time, I’ve built strong analytical skills and mastered modern tools to uncover insights that drive informed decisions.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 About Me
-I am a results-driven Data Analyst with a background in mathematics and a strong focus on data-driven storytelling. I enjoy converting raw data into meaningful insights that solve business challenges and support strategic goals.
-
-My analytical mindset and proficiency with key data tools allow me to handle complex datasets, automate reporting, and design dashboards that communicate insights effectively.
-
----
-
-## 💼 Professional Skills
-
-### 📊 Excel
-- Advanced skills in Excel, including data cleaning, PivotTables, VLOOKUP, and complex formulas.  
-- Skilled at creating dynamic, interactive dashboards for visualization and reporting.
-
-### 📈 Power BI
-- Proficient in building insightful dashboards that communicate trends and KPIs clearly.  
-- Strong storytelling and presentation skills to deliver impactful insights to stakeholders.
-
-### 🛠️ SQL
-- Proficient in writing complex queries to extract, manipulate, and analyze data from relational databases.  
-- Experienced in query optimization and working efficiently with large datasets.
-
----
-
-## 🎓 Certifications
-- **Master Data Analyst Certified** — [10Alytics]  
-- **Certificate of Completion** — Data Analyst Internship Programme, [Uptrail]  
-- **Certificate of Excellence** — Data Analyst Internship Programme, [Uptrail]  
-
----
-
-## 🧰 Tools & Technologies
-`Power BI` · `Excel` · `SQL` · `Python` · `Data Visualization` · `Data Cleaning` · `Reporting`  
-
----
-
-## 📌 Featured Projects
-
-<div style="border:1px solid #e1e4e8;padding:14px;border-radius:8px;margin-bottom:12px;">
-  <h3><a href="https://github.com/yourusername/retail-sales-dashboard" target="_blank">Retail Sales Dashboard</a></h3>
-  <p>Power BI dashboard providing insights on revenue performance, product trends, and regional sales distribution. Includes data cleaning in Excel and SQL queries for aggregation.</p>
-  <p><strong>Tools:</strong> Power BI, Excel, SQL</p>
-  <p><a href="https://github.com/yourusername/retail-sales-dashboard">View Repository</a></p>
+<!-- Profile Header -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="180" valign="top">
+        <img src="https://github.com/USERNAME.png" width="160" style="border-radius:15px;" alt="Profile Picture">
+      </td>
+      <td valign="middle">
+        <h1>👋 Welcome to My GitHub Portfolio</h1>
+        <p>Hi, I'm <b>Aletor</b> — a Data Analyst skilled in Power BI, SQL, Excel, Tableau, and Microsoft Fabric.  
+        I’m passionate about turning data into meaningful insights and building interactive analytics solutions that drive better business decisions.</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
 
-<!-- Duplicate the above section for each featured project -->
+## 💼 About Me  
+🎯 Data-driven problem solver passionate about uncovering insights that help organizations grow.  
+📊 Experienced in analytics, data visualisation, and data storytelling.  
+💡 I enjoy exploring end-to-end solutions — from data extraction to dynamic dashboard reporting.
 
 ---
 
-## 📬 Contact Me
-I am always open to discussing new projects, collaborations, or opportunities in data analytics and data science.  
+## 🧠 Professional Skills  
 
+✅ Power BI, Tableau, Microsoft Fabric  
+✅ SQL (PostgreSQL, MySQL)  
+✅ Excel Analytics & Automation  
+✅ Data Cleaning, Modeling & Visualisation  
+✅ Storytelling & Insight Communication  
+
+---
+
+## 🏆 Certifications  
+- Certificate of Excellence - Data Analytics Internship Programme (Uptrail) 
+- Certificate of Completion - Data Analytics Internship Programme (Uptrail)  
+- Master Data Analytics (10Alytics)  
+
+---
+
+## 📫 Contact Me  
+
+💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
 📧 **Email:** aletoragboigbe@gmail.com  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-
-Thank you for visiting my profile! I look forward to connecting with fellow data enthusiasts and professionals.  
 
 ---
+
+## 📂 About this Portfolio  
+
+This portfolio highlights a range of analytics projects that showcase my skills across **data visualization**, **modelling**, and **business intelligence**.
+
+---
+
+### 🧭 Portfolio Overview  
+
+💼 **Focus Areas**  
+- 📊 **Business Intelligence Dashboards** — Power BI & Tableau projects showcasing interactive analytics and storytelling.  
+- 🧱 **Modern Data Engineering** — Microsoft Fabric case studies featuring medallion architecture and SQL analytics.  
+- 📑 **Excel Reporting** — Classic analysis and visualisation for sales, profitability, and customer insights.  
+- 🗄 **SQL / Databases** — PostgreSQL projects with ERD modelling for database design and insights.  
+
+---
+
+### 🗂 Featured Projects  
+
+<div align="center">
+
+| 🌟 **Project** | 📝 **Description** | 🔗 **Link** |
+|----------------|-------------------|--------------|
+| **Customer Churn Dashboard** | Power BI report analysing churn drivers and retention KPIs | [View Project](#) |
+| **Sales Performance Tracker** | Excel model visualising regional and product sales trends | [View Project](#) |
+| **SQL Customer Insights** | PostgreSQL analysis extracting key behavioural metrics | [View Project](#) |
+
+</div>
+
+---
+
+### 📘 Table of Contents  
+👉 Scroll down to explore the **complete list of projects** with datasets, visuals, and documentation.
